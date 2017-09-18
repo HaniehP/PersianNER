@@ -12,7 +12,9 @@ Please cite [1,2] if you use this dataset.
 
 ## Persian Word Embeddings
 
-GloVe300d, word2vec_cbow300d, word2vec_skipgram300d, and hpca300d are four different word embeddings trained on a sizable collation of unannotated Persian text. They contain a comprehensive Persian dictionary of nearly 50K unique words. Please cite [1] if you use any of these word embeddings in your work.
+GloVe300d, word2vec_cbow300d, word2vec_skipgram300d, and hpca300d are four different word embeddings trained on a sizable collation of unannotated Persian text. They contain a comprehensive Persian dictionary of nearly 50K unique words. The length of the embedding vectors was set to 300.
+
+Please cite [1] if you use any of these word embeddings in your work.
 
 ### Citations
 
