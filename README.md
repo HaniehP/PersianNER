@@ -5,8 +5,8 @@ ArmanPersoNERCorpus is the first Persian named-entity annotated dataset with ISL
 
 Hanieh Poostchi, Ehsan Zare Borzeshi, Mohammad Abdous, and Massimo Piccardi, "PersoNER: Persian Named-Entity Recognition," In the 26th International Conference on Computational Linguistics (COLING 2016), pages 3381–3389, Osaka, Japan, 2016.
 
-Hanieh Poostchi, Ehsan Zare Borzeshi, and and Massimo Piccardi, "BiLSTM-CRF for Persian Named-Entity Recognition; ArmanPersoNERCorpus: the First Entity-Annotated Persian Dataset," In the 11th edition of the Language Resources and Evaluation Conference (LREC), Miyazaki, Japan, 7-12 May 2018 (Under review).
+"BiLSTM-CRF for Persian Named-Entity Recognition; ArmanPersoNERCorpus: the First Entity-Annotated Persian Dataset," In the 11th edition of the Language Resources and Evaluation Conference (LREC), Miyazaki, Japan, 7-12 May 2018 (Under review).
 
 GloVe300d, word2vec_cbow300d, word2vec_skipgram300, and hpca300 are four different word embeddings trained on a sizable collation of Persian text. Please cite the following paper if you use any of these word embeddings:
 
-Hanieh Poostchi, Ehsan Zare Borzeshi, and and Massimo Piccardi, "BiLSTM-CRF for Persian Named-Entity Recognition; ArmanPersoNERCorpus: the First Entity-Annotated Persian Dataset," In the 11th edition of the Language Resources and Evaluation Conference (LREC), Miyazaki, Japan, 7-12 May 2018 (Under review).
+"BiLSTM-CRF for Persian Named-Entity Recognition; ArmanPersoNERCorpus: the First Entity-Annotated Persian Dataset," In the 11th edition of the Language Resources and Evaluation Conference (LREC), Miyazaki, Japan, 7-12 May 2018 (Under review).
