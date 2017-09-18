@@ -7,6 +7,6 @@ Hanieh Poostchi, Ehsan Zare Borzeshi, Mohammad Abdous, and Massimo Piccardi, "Pe
 
 "BiLSTM-CRF for Persian Named-Entity Recognition; ArmanPersoNERCorpus: the First Entity-Annotated Persian Dataset," In the 11th edition of the Language Resources and Evaluation Conference (LREC), Miyazaki, Japan, 7-12 May 2018 (Under review).
 
-GloVe300d, word2vec_cbow300d, word2vec_skipgram300, and hpca300 are four different word embeddings trained on a sizable collation of Persian text. Please cite the following paper if you use any of these word embeddings:
+GloVe300d, word2vec_cbow300d, word2vec_skipgram300d, and hpca300d are four different word embeddings trained on a sizable collation of Persian text. Please cite the following paper if you use any of these word embeddings:
 
 "BiLSTM-CRF for Persian Named-Entity Recognition; ArmanPersoNERCorpus: the First Entity-Annotated Persian Dataset," In the 11th edition of the Language Resources and Evaluation Conference (LREC), Miyazaki, Japan, 7-12 May 2018 (Under review).
