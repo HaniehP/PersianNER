@@ -20,4 +20,4 @@ Please cite [2] if you use any of these word embeddings in your work.
 
 1. Hanieh Poostchi, Ehsan Zare Borzeshi, Mohammad Abdous, and Massimo Piccardi, "PersoNER: Persian Named-Entity Recognition," The 26th International Conference on Computational Linguistics (COLING 2016), pages 3381–3389, Osaka, Japan, 2016.
 
-2. Hanieh Poostchi, Ehsan Zare Borzeshi, and Massimo Piccardi, "BiLSTM-CRF for Persian Named-Entity Recognition; ArmanPersoNERCorpus: the First Entity-Annotated Persian Dataset," The 11th Edition of the Language Resources and Evaluation Conference (LREC), Miyazaki, Japan, 7-12 May 2018, ISLRN 399-379-640-828-6 (under review).
+2. Hanieh Poostchi, Ehsan Zare Borzeshi, and Massimo Piccardi, "BiLSTM-CRF for Persian Named-Entity Recognition; ArmanPersoNERCorpus: the First Entity-Annotated Persian Dataset," The 11th Edition of the Language Resources and Evaluation Conference (LREC), Miyazaki, Japan, 7-12 May 2018, ISLRN 399-379-640-828-6, ISLRN 921-509-141-609-6 (under review).
