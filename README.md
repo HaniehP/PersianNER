@@ -16,6 +16,16 @@ GloVe300d, word2vec_cbow300d, word2vec_skipgram300d, and hpca300d are four diffe
 
 Please cite [2] if you use any of these word embeddings in your work.
 
+## Reported Scores
+
+| Paper  | F1 Score |
+| ------------- | ------------- |
+| [1]  | 65.13%  |
+| [2]  | 77.45%  |
+| https://ieeexplore.ieee.org/abstract/document/8661067  | 76.79% |
+| https://ieeexplore.ieee.org/abstract/document/8700549  | 84.23%  |
+
+
 ## Citations
 
 1. Hanieh Poostchi, Ehsan Zare Borzeshi, Mohammad Abdous, and Massimo Piccardi, "PersoNER: Persian Named-Entity Recognition," The 26th International Conference on Computational Linguistics (COLING 2016), pages 3381–3389, Osaka, Japan, 2016.
