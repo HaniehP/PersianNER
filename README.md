@@ -18,7 +18,7 @@ Please cite [2] if you use any of these word embeddings in your work.
 
 ## Reported Scores
 
-| Paper  | F1 Score |
+| Paper  | Entity-based F1 Score |
 | ------------- | ------------- |
 | [1]  | 65.13%  |
 | [2]  | 77.45%  |
