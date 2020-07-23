@@ -25,7 +25,7 @@ Please cite [2] if you use any of these word embeddings in your work.
 | https://ieeexplore.ieee.org/abstract/document/8661067  | 76.79% |
 | https://ieeexplore.ieee.org/abstract/document/8700549  | 84.23%  |
 
-* The CoNLL F1 score is a strict version of the standard F1 score where a true positive is scored only if all the tokens of a given named entity are classified correctly (including their B- and I- tags). Conversely, every incorrect B- prediction is counted as a false positive. You may find the conlleval Perl script here https://www.clips.uantwerpen.be/conll2000/chunking/conlleval.txt . 
+*The CoNLL F1 score is a strict version of the standard F1 score where a true positive is scored only if all the tokens of a given named entity are classified correctly (including their B- and I- tags). Conversely, every incorrect B- prediction is counted as a false positive. You may find the conlleval Perl script here https://www.clips.uantwerpen.be/conll2000/chunking/conlleval.txt . 
 
 ## Citations
 
